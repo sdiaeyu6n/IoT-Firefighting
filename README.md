@@ -67,6 +67,6 @@ This research detects fires with small data and reduces the amount of data that 
 ####  g. IoT platform for reporting : 
 + NodeRED
 
-5. Animation for the Process Description
+## 5. Animation for the Process Description
 
 ![Process animation_(With CV)](https://user-images.githubusercontent.com/89725142/214887602-5e50036c-8be1-4474-b1e2-1d1d64a0dfef.gif)
